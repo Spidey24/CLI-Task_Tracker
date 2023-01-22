@@ -3,6 +3,7 @@ Command-Line-Interface based Task Tracker using Python
 
 ### Requirements :
 Python : 3.7+
+#### ---------------------------------------------------------
 Py Modules:
 rich,typer,sqlite3
 
